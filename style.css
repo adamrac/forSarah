@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    background-color: pink;
+}
+
+.clues {
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    line-height: 1.5;
+}
+
+a {
+    color: darkmagenta;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 5rem;
+    text-decoration: none;
+}
