@@ -15,6 +15,30 @@
 a {
     color: darkmagenta;
     font-family: 'Abril Fatface', cursive;
-    font-size: 5rem;
+    font-size: 2rem;
     text-decoration: none;
+}
+
+.clue_one {
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    line-height: 1.5;
+}
+
+h2 {
+    color: darkmagenta;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+h3 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .8rem;
+    text-decoration: none;
+    background-color: black;
 }
